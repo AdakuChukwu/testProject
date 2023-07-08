@@ -1,3 +1,6 @@
+NAME:			ADAKU NANNE CHUKWU
+STUDENT NUMBER:		300323232
+
 DESIGN/DEVELOP A DISPATCH/DELIVERY APPLICATION.
 
 This application will enable businesses or individuals to manage and track the process of dispatching and delivering goods or services. It will streamline the entire delivery workflow, from order creation to final delivery, by providing tools and features that facilitate efficient coordination and communication between all parties involved.
